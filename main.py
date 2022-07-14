@@ -2,10 +2,6 @@ import cv2
 import numpy as np
 
 
-def empty(a):
-    pass
-
-
 
 cv2.namedWindow("Trackbar")
 cv2.resizeWindow("Trackbar",640,311)
